@@ -1,11 +1,10 @@
-# React MUI Dropdown with Object Value
-
+# React MUI Dropdown with Object
 ## Objective
 The objective of this component is to create a dropdown menu using React and Material-UI (MUI) that allows selecting an option represented by an object value. The dropdown menu will display the name of the option along with its type. When an option is selected, the corresponding object value will be stored in the component's state.
 
 ## Demo
 
-![Demo](dropdown.gif)
+<img src="dropdown.gif" alt="Demo" width="300px" />
 
 This GIF demonstrates the functionality of the project.
 For a live demo, you can check out the [React MUI Dropdown with Object Value](https://codesandbox.io/s/mui-dropdown-hpv47n?file=/demo.tsx:0-4078) on CodeSandbox.
